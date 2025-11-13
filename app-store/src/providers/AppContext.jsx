@@ -69,6 +69,7 @@ export function AppProvider({ children }) {
   return (
     <AppContext.Provider value={{ apps, loading, fetchApps, createApp }}>
       {children}
+      
     </AppContext.Provider>
   );
 }
