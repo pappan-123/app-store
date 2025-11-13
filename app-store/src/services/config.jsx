@@ -1,0 +1,1 @@
+export const BASE_URL = 'http://tcsilms.centralindia.cloudapp.azure.com';
